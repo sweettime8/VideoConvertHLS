@@ -1,0 +1,54 @@
+[    
+    {
+        "path": "/user",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/user",
+        "method": "POST",
+        "rabbit": "rpc"
+    },{
+        "path": "/user",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    },{
+        "path": "/user",
+        "method": "PUT",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/user/mail",
+        "method": "POST",
+        "rabbit": "worker"
+    }, 
+    {
+        "path": "/user/log",
+        "method": "POST",
+        "rabbit": "publish"
+    },{
+        "path": "/user/upload",
+        "method": "POST",
+        "rabbit": "worker"
+    },{
+        "path": "/user/login",
+        "method": "POST",
+        "rabbit": "rpc"
+    },{
+        "path": "/user/authorization",
+        "method": "POST",
+        "rabbit": "rpc"
+    },{
+        "path": "/user/social-login/google",
+        "method": "POST",
+        "rabbit": "rpc"
+    },{
+        "path": "/user/social-login/facebook",
+        "method": "POST",
+        "rabbit": "rpc"
+    },{
+        "path": "/user/uuidLst",
+        "method": "POST",
+        "rabbit": "rpc"
+    }
+]

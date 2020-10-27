@@ -1,0 +1,19 @@
+[
+    {
+        "path": "/common/mail",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, {
+        "path": "/common/mail",
+        "method": "POST",
+        "rabbit": "worker"
+    }, {
+        "path": "/common/log",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, {
+        "path": "/common/log",
+        "method": "POST",
+        "rabbit": "publish"
+    }
+]

@@ -1,0 +1,207 @@
+[    
+    {
+        "path": "/myhealth",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/myhealth",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/myhealth",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/myhealth",
+        "method": "PUT",
+        "rabbit": "rpc"
+    },{
+        "path": "/myhealth/profile",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/myhealth/profile",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/myhealth/profile",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/myhealth/profile",
+        "method": "PUT",
+        "rabbit": "rpc"
+    },{
+        "path": "/myhealth/folder",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/myhealth/folder",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/myhealth/folder",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/myhealth/folder",
+        "method": "PUT",
+        "rabbit": "rpc"
+    },{
+        "path": "/myhealth/file",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/myhealth/file",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/myhealth/file",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/myhealth/file",
+        "method": "PUT",
+        "rabbit": "rpc"
+    },{
+        "path": "/myhealth/heartrate",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/myhealth/heartrate",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/myhealth/heartrate",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/myhealth/heartrate",
+        "method": "PUT",
+        "rabbit": "rpc"
+    },{
+        "path": "/myhealth/heights",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/myhealth/heights",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/myhealth/heights",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/myhealth/heights",
+        "method": "PUT",
+        "rabbit": "rpc"
+    },{
+        "path": "/myhealth/smart_scale",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/myhealth/smart_scale",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/myhealth/smart_scale",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/myhealth/smart_scale",
+        "method": "PUT",
+        "rabbit": "rpc"
+    },{
+        "path": "/myhealth/medical_history",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/myhealth/medical_history",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/myhealth/medical_history",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/myhealth/medical_history",
+        "method": "PUT",
+        "rabbit": "rpc"
+    },{
+        "path": "/myhealth/pressures",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/myhealth/pressures",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/myhealth/pressures",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/myhealth/pressures",
+        "method": "PUT",
+        "rabbit": "rpc"
+    },{
+        "path": "/myhealth/temperature",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/myhealth/temperature",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/myhealth/temperature",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/myhealth/temperature",
+        "method": "PUT",
+        "rabbit": "rpc"
+    },{
+        "path": "/myhealth/allergic",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/myhealth/allergic",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/myhealth/allergic",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/myhealth/allergic",
+        "method": "PUT",
+        "rabbit": "rpc"
+    },{
+        "path": "/myhealth/bmi",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/myhealth/bmi",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/myhealth/bmi",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/myhealth/bmi",
+        "method": "PUT",
+        "rabbit": "rpc"
+    }
+]

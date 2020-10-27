@@ -1,0 +1,55 @@
+
+[    
+    {
+        "path": "/order",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/order",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/order",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/order",
+        "method": "PUT",
+        "rabbit": "rpc"
+    },{
+        "path": "/order/cart",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/order/cart",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/order/cart",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/order/cart",
+        "method": "PUT",
+        "rabbit": "rpc"
+    },{
+        "path": "/order/method",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/order/method",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/order/method",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/order/method",
+        "method": "PUT",
+        "rabbit": "rpc"
+    }
+]

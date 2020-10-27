@@ -1,0 +1,54 @@
+[    
+    {
+        "path": "/config",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/config",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/config",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/config",
+        "method": "PUT",
+        "rabbit": "rpc"
+    },{
+        "path": "/config/bannerSlide",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/config/bannerSlide",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/config/bannerSlide",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/config/bannerSlide",
+        "method": "PUT",
+        "rabbit": "rpc"
+    },{
+        "path": "/config/banner",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/config/banner",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/config/banner",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/config/banner",
+        "method": "PUT",
+        "rabbit": "rpc"
+    }
+]

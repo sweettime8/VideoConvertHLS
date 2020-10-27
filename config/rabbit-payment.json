@@ -1,0 +1,19 @@
+[
+    {
+        "path": "/payment",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, {
+        "path": "/payment",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/payment/refund",
+        "method": "POST",
+        "rabbit": "worker"
+    }, {
+        "path": "/payment/refund",
+        "method": "POST",
+        "rabbit": "publish"
+    }
+]

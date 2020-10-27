@@ -1,0 +1,96 @@
+[    
+    {
+        "path": "/blog",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/blog",
+        "method": "POST",
+        "rabbit": "rpc"
+    },{
+        "path": "/blog",
+        "method": "PUT",
+        "rabbit": "rpc"
+    },{
+        "path": "/blog",
+        "method": "PATCH",
+        "rabbit": "rpc"
+    },{
+        "path": "/blog",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/blog/list",
+        "method": "GET",
+        "rabbit": "rpc"
+    },{
+        "path": "/blog/mail",
+        "method": "POST",
+        "rabbit": "worker"
+    },{
+        "path": "/blog/category",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/blog/category",
+        "method": "POST",
+        "rabbit": "rpc"
+    },{
+        "path": "/blog/category",
+        "method": "PUT",
+        "rabbit": "rpc"
+    },{
+        "path": "/blog/category",
+        "method": "PATCH",
+        "rabbit": "rpc"
+    },{
+        "path": "/blog/category",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    },{
+        "path": "/blog/tag",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/blog/tag",
+        "method": "POST",
+        "rabbit": "rpc"
+    },{
+        "path": "/blog/tag",
+        "method": "PUT",
+        "rabbit": "rpc"
+    },{
+        "path": "/blog/tag",
+        "method": "PATCH",
+        "rabbit": "rpc"
+    },{
+        "path": "/blog/tag",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    },{
+        "path": "/blog/topic",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/blog/topic",
+        "method": "POST",
+        "rabbit": "rpc"
+    },{
+        "path": "/blog/topic",
+        "method": "PUT",
+        "rabbit": "rpc"
+    },{
+        "path": "/blog/topic",
+        "method": "PATCH",
+        "rabbit": "rpc"
+    },{
+        "path": "/blog/topic",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }
+]

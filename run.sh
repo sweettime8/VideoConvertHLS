@@ -1,0 +1,1 @@
+java -jar sk365Gateway-0.0.1.jar SK365-GATEWAY

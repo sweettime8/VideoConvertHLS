@@ -1,0 +1,72 @@
+[    
+    {
+        "path": "/mobile_version",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/mobile_version",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/mobile_version",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/mobile_version",
+        "method": "PUT",
+        "rabbit": "rpc"
+    },{
+        "path": "/mobile_version/service",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/mobile_version/service",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/mobile_version/service",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/mobile_version/service",
+        "method": "PUT",
+        "rabbit": "rpc"
+    },{
+        "path": "/mobile_version/module",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/mobile_version/module",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/mobile_version/module",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/mobile_version/module",
+        "method": "PUT",
+        "rabbit": "rpc"
+    },{
+        "path": "/mobile_version/service_version",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/mobile_version/service_version",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/mobile_version/service_version",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/mobile_version/service_version",
+        "method": "PUT",
+        "rabbit": "rpc"
+    }
+]
+

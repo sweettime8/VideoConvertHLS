@@ -1,0 +1,166 @@
+[    
+    {
+        "path": "/store",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/store",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/store",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/store",
+        "method": "PUT",
+        "rabbit": "rpc"
+    }, {
+        "path": "/store/category",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/store/category",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/store/category",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/store/category",
+        "method": "PUT",
+        "rabbit": "rpc"
+    }, {
+        "path": "/store/attribute",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/store/attribute",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/store/attribute",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/store/attribute",
+        "method": "PUT",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/store/updateNumber",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/store/updateNumber",
+        "method": "PUT",
+        "rabbit": "rpc"
+    }, {
+        "path": "/store/list",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/store/list",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/store/list",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/store/list",
+        "method": "PUT",
+        "rabbit": "rpc"
+    }, {
+        "path": "/store/unit",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/store/unit",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/store/unit",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/store/unit",
+        "method": "PUT",
+        "rabbit": "rpc"
+    }, {
+        "path": "/store/color",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/store/color",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/store/color",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/store/color",
+        "method": "PUT",
+        "rabbit": "rpc"
+    }, {
+        "path": "/store/info",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/store/info",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/store/info",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/store/info",
+        "method": "PUT",
+        "rabbit": "rpc"
+    }, {
+        "path": "/store/topic",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/store/topic",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/store/topic",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/store/topic",
+        "method": "PUT",
+        "rabbit": "rpc"
+    }, {
+        "path": "/store/topicproduct",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/store/topicproduct",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/store/topicproduct",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/store/topicproduct",
+        "method": "PUT",
+        "rabbit": "rpc"
+    }
+]

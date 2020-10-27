@@ -1,0 +1,71 @@
+[    
+    {
+        "path": "/fitness",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/fitness",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/fitness",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/fitness",
+        "method": "PUT",
+        "rabbit": "rpc"
+    },{
+        "path": "/fitness/video",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/fitness/video",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/fitness/video",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/fitness/video",
+        "method": "PUT",
+        "rabbit": "rpc"
+    },{
+        "path": "/fitness/category",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/fitness/category",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/fitness/category",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/fitness/category",
+        "method": "PUT",
+        "rabbit": "rpc"
+    },{
+        "path": "/fitness/attribute",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/fitness/attribute",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/fitness/attribute",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/fitness/attribute",
+        "method": "PUT",
+        "rabbit": "rpc"
+    }
+]

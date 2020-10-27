@@ -1,0 +1,37 @@
+[    
+    {
+        "path": "/test",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/test",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/test",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/test",
+        "method": "PUT",
+        "rabbit": "rpc"
+    },{
+        "path": "/test/category",
+        "method": "GET",
+        "rabbit": "rpc"
+    }, 
+    {
+        "path": "/test/category",
+        "method": "POST",
+        "rabbit": "rpc"
+    }, {
+        "path": "/test/category",
+        "method": "DELETE",
+        "rabbit": "rpc"
+    }, {
+        "path": "/test/category",
+        "method": "PUT",
+        "rabbit": "rpc"
+    }
+]
